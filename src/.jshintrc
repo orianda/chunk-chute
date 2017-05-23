@@ -1,0 +1,8 @@
+{
+  "extends": "../.jshintrc",
+  "validthis": true,
+  "globals": {
+    "module": false,
+    "window": false
+  }
+}
