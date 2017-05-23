@@ -1,6 +1,6 @@
 {
   "name": "chunk-chute",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Cascading chunks of data (promises) and transform them into one or multiple outputs.",
   "homepage": "https://github.com/orianda/chunk-chute",
   "main": "src/index.js",
